@@ -7,10 +7,10 @@
 
 
 # Lista seguida - Apartado 2_1
-## Pasos para seguir lista, dentro de nuestra cuenta vamos a PROFILE ,despues pinchamos en MORE, LIST
-![Paso1](img/TareaPIA01_Imagen_crear_lista_X.png)
-
-
+## Pasos para seguir lista, dentro de nuestra cuenta vamos a EXPLORE ,en la barra de a lupa, teclamos "listas" y pinchamos el "List"
+![Paso1](img/TareaPIA01_Imagen_seguir_lista_X_1.png)
+![Paso2](img/TareaPIA01_Imagen_seguir_lista_X_2.png)
+![Paso3](img/TareaPIA01_Imagen_seguir_lista_X_Fin.png)
 
 
 # Lista creada por mi - Apartado 2_2

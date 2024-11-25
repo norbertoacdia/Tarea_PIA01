@@ -17,6 +17,8 @@
 ![Creacion_repo](img/TareaPIA01_Imagen_creacion_repositorio.png)
 ### Creamos un nuevo archivo
 ![Creacion_archivo](img/TareaPIA01_Imagen_crearArchivo.png)
+### Asignamos un nombbre
+![CAsignacionnombre](img/TareaPIA01_Imagen_creacion_holamundo_py.png)
 
 
 

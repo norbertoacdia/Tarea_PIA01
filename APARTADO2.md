@@ -26,3 +26,8 @@
 ![Paso2](img/TareaPIA01_Imagen_crear_lista_X_2.png)
 ## Finalmente asignamos un nombre,pinchamos en NEXT, y ya solo queda empezar a seguir lo que nos parezca interesante
 ![Paso3](img/TareaPIA01_Imagen_crear_lista_X_3.png)
+
+# Seguir en Linkedin a Comunidad Spain AI
+![Comunidad_Spain_AI](img/TareaPIA01_Imagen_seguir_linkedin.png)
+
+

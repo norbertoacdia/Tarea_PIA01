@@ -13,6 +13,7 @@
 #### Pantalla principal GitHub
 ![Home_GitHub](img/TareaPIA01_Imagen_home_GitHub.png)
 #### Creamos un repositorio Publico:
+![Creacion_repo](img/Creación_Repositorio.png)
 
 
 

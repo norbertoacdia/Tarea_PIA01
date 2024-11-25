@@ -4,7 +4,8 @@
 # Lista creada por mi en (twitter) - Apartado 2_2
 [Mi Lista en IA en twitter](https://x.com/i/lists/1861170456658878918)
 #
-#
+# Perfil de Linkedin
+[Perfil_linkedin](www.linkedin.com/in/norberto-acuña-domínguez-3782b0176)
 #
 # Lista seguida - Apartado 2_1
 ## Pasos para seguir lista, dentro de nuestra cuenta vamos a EXPLORE ,en la barra de a lupa, teclamos "listas" y pinchamos el "List"

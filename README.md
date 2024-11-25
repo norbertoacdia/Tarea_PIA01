@@ -21,7 +21,7 @@
 ![Asignacionnombre](img/TareaPIA01_Imagen_creacion_holamundo_py.png)
 ### Hacemos un commit 
 ![Asignacionnombre](img/TareaPIA01_Imagen_creacion_holamundo_py2.png)
-### Tecleamos el codigo para hacer un Hola Mundo
+### Tecleamos el código para hacer un Hola Mundo, y nuevamente commit
 ![Asignacionnombre](img/TareaPIA01_Imagen_creacion_holamundo_py3.png)
 
 

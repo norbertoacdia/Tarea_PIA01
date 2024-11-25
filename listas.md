@@ -5,6 +5,14 @@
 [Mi Lista en IA en twitter](https://x.com/i/lists/1861170456658878918)
 
 
+
+# Lista cre
+
+
+
+
+
+# Lista creada por mi - Apartado 2_2
 ## Pasos para Crear lista, dentro de nuestra cuenta vamos a PROFILE ,despues pinchamos en MORE, LIST
 ![Paso1](img/TareaPIA01_Imagen_crear_lista_X.png)
 ## Pinchamos en el siguiente ICONO:

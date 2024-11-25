@@ -19,8 +19,9 @@
 ![Creacion_archivo](img/TareaPIA01_Imagen_crearArchivo.png)
 ### Asignamos un nombre
 ![Asignacionnombre](img/TareaPIA01_Imagen_creacion_holamundo_py.png)
-### Rellenamos
+### Hacemos un commit 
 ![Asignacionnombre](img/TareaPIA01_Imagen_creacion_holamundo_py2.png)
+### Tecleamos el codigo para hacer un Hola Mundo
 ![Asignacionnombre](img/TareaPIA01_Imagen_creacion_holamundo_py3.png)
 
 

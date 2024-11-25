@@ -1,13 +1,14 @@
-# Lista seguida en X (twitter) 
+# Lista seguida en X (twitter) - Apartado 2_1
 [Lista IA en twitter](https://x.com/i/lists/1179844739765620744)
 
-# Lista creada por mi en (twitter)
+# Lista creada por mi en (twitter) - Apartado 2_2
 [Mi Lista en IA en twitter](https://x.com/i/lists/1861170456658878918)
 
 
 
-# Lista cre
-
+# Lista seguida - Apartado 2_1
+## Pasos para seguir lista, dentro de nuestra cuenta vamos a PROFILE ,despues pinchamos en MORE, LIST
+![Paso1](img/TareaPIA01_Imagen_crear_lista_X.png)
 
 
 

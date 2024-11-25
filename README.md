@@ -12,8 +12,11 @@
 ![Login_GitHub](img/TareaPIA01_Imagen_login_cuenta.png)
 #### Pantalla principal GitHub
 ![Home_GitHub](img/TareaPIA01_Imagen_home_GitHub.png)
-#### Creamos un repositorio Publico:
+#### Creamos un repositorio Publico:(lo creamos desde una maquina virtual)
+#### pero iba demasiado lento, y volvimos a la maquina fisica)
 ![Creacion_repo](img/TareaPIA01_Imagen_creacion_repositorio.png)
+### Creamos un nuevo archivo
+![Creacion_archivo](img/TareaPIA01_Imagen_crearArchivo.png)
 
 
 
